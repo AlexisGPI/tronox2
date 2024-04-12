@@ -3,7 +3,7 @@ import pandas as pd
 import altair as alt
 from datetime import datetime, time, timedelta
 import locale
-import openai
+
 from calendar import monthrange
 import calendar
 import matplotlib.pyplot as plt
