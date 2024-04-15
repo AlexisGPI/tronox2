@@ -22,7 +22,7 @@ def month_number_to_name(month_number):
 
 with st.sidebar:
 
-    st.image("C:/Users/avalentin/Pictures/gpi logo.PNG", width=200)
+    #st.image("C:/Users/avalentin/Pictures/gpi logo.PNG", width=200)
 
 
      # ANNEE ET MOIS *********************************
